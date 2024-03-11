@@ -1,0 +1,17 @@
+Mothly report - 3
+Report done by DEEPA
+Date: 12 Feb 2023 - 10 Mar 2023
+
+I created a collection of ragas in Firebase Cloud Firestore manually and displayed it on the webpage.
+
+I also created a 'ragas_details.html' page and designed it to work dynamically for each raga.
+
+and designed the 'ragas_details.html' page with sections for Arohanam and Avrohanam.
+
+uploaded the Arohanam and Avrohanam details to Cloud Firestore manually and fetched the values to display on the website.
+
+designed the URL based on the clicked raga and displayed the raga's name in the URL.
+
+uploaded the ragas' MP3 files to Firebase Storage, retrieved the URLs, stored them in Firestore, and displayed the ragas on the webpage.
+
+I learned about routing, Apache server configuration, HTTP, SSH, and URL structures.
